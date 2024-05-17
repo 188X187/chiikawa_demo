@@ -1,0 +1,8 @@
+.filter li {
+    list-style: none;
+    display: inline;
+}
+
+.filterDummy {
+    width: 150px;
+}
